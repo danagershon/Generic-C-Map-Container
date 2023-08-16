@@ -3,3 +3,5 @@
 System Programming Course HW1: Generic Map Implementation in C
 
 • uses void* to provide a generic interface
+
+• Has an internal iterator for external use
